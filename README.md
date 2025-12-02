@@ -1,0 +1,132 @@
+![Coffe to code](https://wallpapers.com/images/featured/4k-programming-3hcns7bt28muj7ih.jpg)
+
+# Bem vindos à minha página GitHub
+
+Nome: Thallis Ferreira Lima (Nyx)
+
+Aspirante a Dev da Alpha EdTech
+
+Resumo das máterias vistas em aula:
+
+## Parte I
+
+Introdução e conceitos básicos sobre web (T7 - Noite)
+
+Com o professor Kenji Taniguchi
+
+### Aula 01:
+
+- Conceitos fundamentais de redes de computadores:
+    - Conceito inicial de BackBones;
+    - Topologias de rede (estrela, anel e ponto a ponto);
+    - Os protocolos principais que caracterizam a Web (HTTP e HTTPS);
+    - O que é internet, intranet e extranet;
+    - Conceito inicial de Machine Learning e Web 3.0;
+
+### Aula 02:
+
+- Protocolos de comunicação em Redes:
+    - NAT (Network Address Translation);
+    - Diferenças de cabeçalho do protocolo UDP e TCP;
+    - A importância de seguir a LGPD (Lei Geral de Proteção de Dados);
+    - A importância da Proxie;
+
+### Aula 03:
+
+- Endereçamento de IP, Sub-redes e Portas:
+    - A mudança do endereçamento IPv4 para IPv6;
+    - Máscaras de Redes
+    - O que é uma VPN e qual a sua importância;
+    - Algumas ferramentas do CMD como traceroute e ping;
+
+### Aula 04:
+
+- Serviços e Aplicações na Internet:
+    - Conceito de API;
+    - O que é Rest e API Restful;
+    - Conceito de ataque DDos;
+    - Como funciona uma arquitetura de 3 camadas;
+
+### Aula 05:
+
+- DNS (Domain Name System):
+    - O que são DNS;
+    - Como funciona um ataque de envenenamento de cache;
+    - O que são CDNs;
+    - Como funciona a hierarquia DNS;
+    - Como funciona os domínios de redes;
+
+### Aula 06:
+
+- Arquitetura da Internet:
+    - Técnicas de balanceamento de carga em redes de backbone;
+    - O conceito de latência de rede;
+    - Como a criptografia de ponta a ponta é usada para proteger a privacidade 
+      e a confidencialidade dos dados
+    - Protocolos de roteamento como OSPF, BGP e RIP;
+
+### Aula 07:
+
+- Redes de Computadores:
+    - Principais características e diferenças entre LANs, WANs, MANs e PANs.
+    - Modelos de referência de redes OSI e TCP/IP;
+    - Principais características das arquiteturas Ethernet e Token Ring;
+    - Evolução entre as gerações 3G, 4G e 5G;
+    - Como funciona o endereçamento IP em uma LAN
+
+### Aula 08:
+
+- Segurança de Redes:
+    - Quais são as principais ameaças à segurança de redes 
+      (malware, phishing e ataque DDos);
+    - Conceito de Firewalls;
+    - Antivírus;
+    - Conceito de Firewalls de Próxima Geração (NGFW)
+    - Implementação de VPNs;
+
+### Aula 09:
+
+- Segurança na Web:
+    - Diferenças entre HTTP e HTTPS;
+    - SSL/TLS;
+    - Estrutura básica de um certificado SSL/TLS;
+    - Criptografia simétrica e assimétrica;
+
+### Aula 10:
+
+- Tendências e Desafios nas Redes Modernas:
+    - Internet das Coisas;
+    - Arquitetura SDN;
+    - Tecnologia Blockchain;
+    - Uso de nuvem em segurança de uma empresa;
+
+### Parte II
+
+Introdução de Git, GitHub e VScode (T7 - Noite)
+
+Professores Leonardo Mori e Felipe Ozias
+
+### Aula 01:
+
+- Git, VScode e Gitlens:
+    - Como baixar, instalar e configurar o Git;
+    - Comandos iniciais e criação de arquivos e pastas .git;
+    - Como criar e gerenciar commits;
+    - Como usar estas funções tanto no GitBash quanto no VScode;
+
+### Aula 02:
+
+- Branches e Merge:
+    - Como criar novas Branches e trabalha-las de forma separada;
+    - Como Identificar a Branche "oficial" e como usar o comando merge;
+    - Boas práticas (como usar nomes em inglês);
+
+## Aula 03:
+
+-  Repositório Remoto:
+    - Como criar um conta no GitHub;
+    - Como criar um repositório;
+    - Como adicionar coloboradores;
+    - O uso de comandos como (git push ou git fetch) e como eles se comportam;
+    - Como ambos podem trabalhar juntos em um único projeto;
+
